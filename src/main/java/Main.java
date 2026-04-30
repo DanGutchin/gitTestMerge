@@ -8,6 +8,7 @@ public class Main {
     int g = 0;
     int h = 0;
     int i = 0;
+    int j = 0;
     public static void main(String[] args) {
         Main m = new Main();
     }
