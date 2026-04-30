@@ -10,6 +10,7 @@ public class Main {
     int i = 0;
     int j = 0;
     int k = 0;
+    int l = 0;
     public static void main(String[] args) {
         Main m = new Main();
     }
