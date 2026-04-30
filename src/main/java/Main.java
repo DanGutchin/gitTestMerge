@@ -5,6 +5,7 @@ public class Main {
     int d = 0;
     int e = 0;
     int f = 0;
+    int g = 0;
     public static void main(String[] args) {
         Main m = new Main();
     }
