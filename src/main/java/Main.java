@@ -13,7 +13,7 @@ public class Main {
     int l = 0;
     int m = 0;
     int n = 0;
-    int m = 0;
+    int o = 0;
     public static void main(String[] args) {
         Main m = new Main();
     }
