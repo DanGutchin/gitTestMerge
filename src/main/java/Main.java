@@ -11,6 +11,7 @@ public class Main {
     int j = 0;
     int k = 0;
     int l = 0;
+    int m = 0;
     public static void main(String[] args) {
         Main m = new Main();
     }
